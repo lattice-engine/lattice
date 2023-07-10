@@ -1,5 +1,12 @@
 # @lattice-engine/portal
 
+## 2.0.1
+
+### Patch Changes
+
+- 66d5e34: fix portals not rendering all vrm layers
+- 485da76: fix portal material not using global camera position
+
 ## 2.0.0
 
 ### Patch Changes
