@@ -1,5 +1,13 @@
 # lattice-engine
 
+## 0.3.8
+
+### Patch Changes
+
+- Updated dependencies [66d5e34]
+- Updated dependencies [485da76]
+  - @lattice-engine/portal@2.0.1
+
 ## 0.3.7
 
 ### Patch Changes
